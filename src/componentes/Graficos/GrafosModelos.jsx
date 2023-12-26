@@ -122,7 +122,7 @@ export default function GrafosModelos(){
     {/* <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Voto Emocional y Racional</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/movilizacion/grafo_modelo-Voto%20Emocional%20y%20Racional-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/movilizacion-REPER/grafo_modelo-Voto%20Emocional%20y%20Racional-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={votoemrac} className='imagen-grafo-modelos' />
     </div>
@@ -133,7 +133,7 @@ export default function GrafosModelos(){
     {/* <div className='grafo-video-modelos'>
     <Tooltip title="Click para ver el grafo">
     <div className='titulo-modelo'>Preocupaciones VEN</div>
-    <a href={`https://qsngrafos.vercel.app/modelos/movilizacion/grafo_modelo-Preocupaciones%20-%20Ven-${filtroFecha}.html`} target="_blank">
+    <a href={`https://qsngrafos.vercel.app/modelos/movilizacion-REPER/grafo_modelo-Preocupaciones%20-%20Ven-${filtroFecha}.html`} target="_blank">
     <div className=' cartaGrafo-modelos'>
       <img src={preocupacionesVen} className='imagen-grafo-modelos'/>
     </div>
